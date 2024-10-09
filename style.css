@@ -1,0 +1,51 @@
+body{
+    font-weight: 400;
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2en;
+    color: #818181;
+    margin: 0;
+}
+
+header{
+    background-color: #F4511E;
+}
+
+h1{
+    font-size: 63px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+
+font-weight: 600;
+}
+
+img {
+    width: 250px;
+}
+
+.carousel-caption h5{
+font-size: 80px;
+color: #ffc107;
+text-shadow: 2px 2px 2px black;
+}
+
+.navbarSupported{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+
+
+   
+
+
+
+
